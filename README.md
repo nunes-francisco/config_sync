@@ -4,6 +4,8 @@ Este projeto fornece um script Python para monitorar alterações em configuraç
 
 ![Capa](./assets/data-synchronization.png)
 
+Gerenciador de configuração do NGINX Proxy Server.
+
 ## Funcionalidades
 
 - Monitora alterações em arquivos de configuração do NGINX em um diretório específico.
